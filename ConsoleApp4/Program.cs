@@ -10,6 +10,8 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hana tobi");
+            Console.WriteLine("Hana tobi");
         }
     }
 }
