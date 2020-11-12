@@ -12,6 +12,9 @@ namespace ConsoleApp4
         {
             Console.WriteLine("Hana tobi");
             Console.WriteLine("Hana tobi");
+            Console.WriteLine("Hana tobi");
+            Console.WriteLine("Hana tobi");
+            Console.WriteLine("Hana tobi");
         }
     }
 }
